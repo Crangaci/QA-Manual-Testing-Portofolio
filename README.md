@@ -39,6 +39,6 @@ Testing activities:
 - VS Code
 - WordPress
 
-# # Career Goal
+## Career Goal
 
 My goal is to start my career in QA, improve my testing skills and gain experience by working on real projects.
