@@ -1,4 +1,4 @@
-# Bug Report: Product Details Page Does Not Display All Product Information
+# Bug Report
 
 Bug ID: BUG_PRODUCT_001
 
