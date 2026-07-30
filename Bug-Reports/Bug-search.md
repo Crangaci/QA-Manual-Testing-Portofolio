@@ -4,6 +4,8 @@
 
 Bug ID: BUG_SEARCH_001
 
+Related Test Case: TC_PRODUCT_001
+
 Title: Search button does not display search results
 
 Environment:
