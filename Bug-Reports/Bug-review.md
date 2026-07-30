@@ -1,6 +1,6 @@
 # Bug Report 
 
-Bug 1:User Cannot Edit Website Review
+Bug: User Cannot Edit Website Review
 
 Bug ID: BUG_REVIEW_001
 
