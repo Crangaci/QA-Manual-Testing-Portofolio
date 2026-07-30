@@ -45,9 +45,9 @@ Steps:
 3. Click on the product.
 
 Result:
-The product details page is opened successfully.
+The product details page is opened successfully, but some product information is missing.
 
-Status: Pass
+Status: Fail
 
 ## Test Case 4: Add product to cart from product page
 
