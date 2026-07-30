@@ -1,6 +1,6 @@
 # Bug Reports
 
-## Bug 1: Search function does not return results
+Bug: Search function does not return results
 
 Bug ID: BUG_SEARCH_001
 
