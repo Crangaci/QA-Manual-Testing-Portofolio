@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This checklist is used to quickly verify the main website features before or after testing.
+This checklist is used to verify the main website features during manual tester.
 
 
 ## User Account
